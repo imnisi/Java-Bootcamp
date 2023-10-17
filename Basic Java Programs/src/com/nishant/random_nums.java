@@ -1,4 +1,4 @@
-// How to Generate Random Numbers in Java
+package com.nishant;// How to Generate Random Numbers in Java
 
 import java.util.Scanner;
 

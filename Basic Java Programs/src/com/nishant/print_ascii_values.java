@@ -1,4 +1,4 @@
-//How to Print ASCII Value in Java
+package com.nishant;//How to Print ASCII Value in Java
 
 import java.util.Scanner;
 
