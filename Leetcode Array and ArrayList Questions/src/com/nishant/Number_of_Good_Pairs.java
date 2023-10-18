@@ -1,4 +1,4 @@
-//Leetcode problem No: 1512 -- Number of Good Pairs
+package com.nishant;//Leetcode problem No: 1512 -- Number of Good Pairs
 
 import java.util.Scanner;
 

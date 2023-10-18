@@ -1,4 +1,4 @@
-//Leetcode Problem No:1920 -- Build Array from Permutation
+package com.nishant;//Leetcode Problem No:1920 -- Build Array from Permutation
 
 import java.util.Arrays;
 import java.util.Scanner;

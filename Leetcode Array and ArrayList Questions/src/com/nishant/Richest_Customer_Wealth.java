@@ -1,4 +1,4 @@
-//Leetcode Problem No:1672 -- Richest Customer Wealth
+package com.nishant;//Leetcode Problem No:1672 -- Richest Customer Wealth
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-//Leetcode problem: 1431 -- Kids With the Greatest Number of Candies
+package com.nishant;//Leetcode problem: 1431 -- Kids With the Greatest Number of Candies
 
 import java.util.ArrayList;
 import java.util.Scanner;

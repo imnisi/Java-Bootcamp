@@ -1,4 +1,4 @@
-//Leetcode problem No: 1365 -- How Many Numbers Are Smaller Than the Current Number
+package com.nishant;//Leetcode problem No: 1365 -- How Many Numbers Are Smaller Than the Current Number
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-//Leetcode Problem No:1480 -- Running Sum of 1d Array
+package com.nishant;//Leetcode Problem No:1480 -- Running Sum of 1d Array
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-//Leetcode Problem No:1470 -- Shuffle the Array
+package com.nishant;//Leetcode Problem No:1470 -- Shuffle the Array
 
 import java.util.Arrays;
 import java.util.Scanner;
