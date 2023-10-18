@@ -1,4 +1,4 @@
-//Java Program to right rotate the elements of an array
+package com.nishant;//Java Program to right rotate the elements of an array
 
 import java.util.Arrays;
 import java.util.Scanner;

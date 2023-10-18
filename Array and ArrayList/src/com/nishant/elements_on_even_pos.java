@@ -1,4 +1,4 @@
-//Java Program to print the elements of an array present on an
+package com.nishant;//Java Program to print the elements of an array present on an
 //even position
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-//Write a function to check if a given triplet is a Pythagorean triplet or not.
+package com.nishant;//Write a function to check if a given triplet is a Pythagorean triplet or not.
 
 import java.util.Scanner;
 

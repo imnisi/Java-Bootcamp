@@ -1,4 +1,4 @@
-//Java Program to print the elements of an array in reverse order
+package com.nishant;//Java Program to print the elements of an array in reverse order
 
 import java.util.Arrays;
 import java.util.Scanner;

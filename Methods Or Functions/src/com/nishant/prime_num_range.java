@@ -1,4 +1,4 @@
-//Write a function that returns all prime numbers between two given numbers.
+package com.nishant;//Write a function that returns all prime numbers between two given numbers.
 
 import java.util.Scanner;
 

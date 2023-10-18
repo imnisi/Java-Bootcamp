@@ -1,4 +1,4 @@
-//Java Program to print the duplicate elements of an array
+package com.nishant;//Java Program to print the duplicate elements of an array
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-//ava Program to print the smallest and largest element in an array
+package com.nishant;//ava Program to print the smallest and largest element in an array
 
 import java.util.Scanner;
 

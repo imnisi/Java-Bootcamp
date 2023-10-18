@@ -1,4 +1,4 @@
-//Java Program to left rotate the elements of an array perfoming n rotations.
+package com.nishant;//Java Program to left rotate the elements of an array perfoming n rotations.
 
 import java.util.Arrays;
 import java.util.Scanner;

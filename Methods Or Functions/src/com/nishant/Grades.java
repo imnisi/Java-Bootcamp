@@ -1,4 +1,4 @@
-//Write a program that will ask the user to enter his/her marks (out of 100).
+package com.nishant;//Write a program that will ask the user to enter his/her marks (out of 100).
 // Define a method that will display grades according to the marks entered as below.
 //Marks        Grade
 //91-100         AA

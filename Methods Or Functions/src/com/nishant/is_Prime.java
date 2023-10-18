@@ -1,4 +1,4 @@
-//Define a method to find out if a number is prime or not.
+package com.nishant;//Define a method to find out if a number is prime or not.
 
 import java.util.Scanner;
 

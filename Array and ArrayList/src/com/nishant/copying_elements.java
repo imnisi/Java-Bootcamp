@@ -1,4 +1,4 @@
-//Java Program to copy all elements of one array into another
+package com.nishant;//Java Program to copy all elements of one array into another
 //array
 
 import java.util.Arrays;

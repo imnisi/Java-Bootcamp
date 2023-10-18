@@ -1,4 +1,4 @@
-//Write a program to print the factorial of a number by defining a method named 'Factorial'.
+package com.nishant;//Write a program to print the com.nishant.factorial of a number by defining a method named 'Factorial'.
 
 import java.util.Scanner;
 

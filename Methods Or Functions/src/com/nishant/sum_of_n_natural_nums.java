@@ -1,4 +1,4 @@
-//Write a function that returns the sum of first n natural numbers.
+package com.nishant;//Write a function that returns the sum of first n natural numbers.
 
 import java.util.Scanner;
 

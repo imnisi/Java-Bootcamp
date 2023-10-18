@@ -1,4 +1,4 @@
-//Java Program to print the elements of an array present in an
+package com.nishant;//Java Program to print the elements of an array present in an
 //odd position
 
 import java.util.Scanner;

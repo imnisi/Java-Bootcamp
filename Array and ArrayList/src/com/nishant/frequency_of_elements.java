@@ -1,4 +1,4 @@
-//Java Program to find the frequency of each element in the
+package com.nishant;//Java Program to find the frequency of each element in the
 //array
 
 import java.util.Arrays;
