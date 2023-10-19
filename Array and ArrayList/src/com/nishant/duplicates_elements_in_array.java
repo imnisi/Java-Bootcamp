@@ -27,7 +27,7 @@ public class duplicates_elements_in_array {
             while (i < lenArr) {
                 if (temp[i] == num ) {
                     count++;
-                    temp[i] = 0;
+                    temp[i] = Integer.MAX_VALUE;
                 }
                 i++;
             }

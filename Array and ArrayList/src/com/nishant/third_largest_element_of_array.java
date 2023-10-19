@@ -27,26 +27,26 @@ public class third_largest_element_of_array {
         }
 
         //Approach 1: Using brute force approach to find nth largest number.
-//        int max_num = 0;
-//        int n = 2, j = 0;
-//        while (n > 0) {
-//            max_num = numArr[0];
-//            for (int i = 0; i < lenArr; i++) {
-//                if (max_num < numArr[i]) {
-//                    max_num = numArr[i];
-//                    j = i;
-//                }
-//
-//            }
-//           numArr[j] = 0;
-//           n--;
-//        }
-//        return max_num;
-//    }
+        int max_num = Integer.MIN_VALUE;
+        int n = 3, j = 0;
+        while (n > 0) {
+            max_num = Integer.MIN_VALUE;
+            for (int i = 0; i < lenArr; i++) {
+                if (max_num < numArr[i]) {
+                    max_num = numArr[i];
+                    j = i;
+                }
+
+            }
+           numArr[j] = Integer.MIN_VALUE;
+           n--;
+        }
+        return max_num;
+    }
 
         //Approach 2: Using sort method.
 
-        Arrays.sort(numArr);
-        return numArr[lenArr - 3];  //Returning the third-largest number of the array.
-    }
+//        Arrays.sort(numArr);
+//        return numArr[lenArr - 3];  //Returning the third-largest number of the array.
+
 }

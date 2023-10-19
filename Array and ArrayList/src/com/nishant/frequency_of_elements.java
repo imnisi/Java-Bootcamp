@@ -26,7 +26,7 @@ public class frequency_of_elements {
             while(i < lenBrr){
                 if(num == temp[i]){
                     count++;
-                    temp[i] = 0;
+                    temp[i] = Integer.MAX_VALUE;
                 }
                 i++;
             }
